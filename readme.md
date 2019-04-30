@@ -42,7 +42,7 @@ This dataset is provided as a 51 GB gzipped postgresql image file that gzipped c
 
 ## Architecture
 
-![Tech Stack]](https://github.com/chrissyqyc9/DE/blob/master/img/pipeline_demo.png)
+![Tech Stack]](https://github.com/Tecknique/Fed_Up_Project/blob/master/Fed_Up_Presentation.jpg)
 
 * Download the data onto an EC2 Instance, unzip, restore, split, dump, zip, break up
 
