@@ -21,7 +21,7 @@ This visualizes how the government spends its money in forms of grants and contr
 
 This dataset is provided as a 51 GB gzipped postgresql image file that gzipped can be larger than 1 terabyte. There includes 57 different tables with over 800 columns
 
-[Dataset from usaspending.gov](https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
+[Dataset from usaspending.gov](https://files.usaspending.gov/database_download/)
 
 
 ## Architecture
